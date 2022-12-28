@@ -1,4 +1,12 @@
 8 16 0 5
+Wroclaw (0)
+Poznan (1)
+Lodz (2)
+Warszawa (3)
+Gdansk (4)
+Szczecin (5)
+Krakow (6)
+Sosnowiec (7)
 0 9 1
 0 9 4
 2 1 0
@@ -15,11 +23,3 @@
 3 1 7
 3 8 5
 5 9 3
-Wroclaw
-Poznan
-Lodz
-Warszawa
-Gdansk
-Szczecin
-Krakow
-Sosnowiec
